@@ -1,4 +1,4 @@
-# Olá! Me chamo Ellison Manoel! 👋
+# Opa! me chamo Ellison Manoel! 🐼
 
 :beginner: Aluno do IFRN, cursando Programação Web, futuro analista de sistemas
 
@@ -14,7 +14,7 @@
 
 ## Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=36 height=36 />
 
 ## Banco de dados
 
@@ -31,7 +31,7 @@
 
 ###### Ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlechrome/googlechrome-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width=36 height=36 />
 
 ###### Design
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=36 height=36 />
@@ -41,7 +41,7 @@
 
 ## Social
 
-<a href="http://www.instagram.com/eumechamoberg" target="_blank">
+<a href="http://www.instagram.com/elison.899" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram">
 </a> 
 
